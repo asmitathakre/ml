@@ -20,8 +20,8 @@ def get_requirements(file_path:str)->List[str]:
 setup(
 name='ml_project_SPI',
 version='0.0.1',
-author='Shantanu',
-author_email='tupkarshantanu@gmail.com',
+author='Asmita',
+author_email='asmitathakre08@gmail.com',
 packages=find_packages(),
 install_requires=get_requirements('requirements.txt')
 
